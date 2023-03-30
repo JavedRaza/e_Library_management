@@ -80,6 +80,7 @@
                                                 <asp:ListItem Text="Rupa Publications " Value="Rupa Publications"></asp:ListItem>
                                                 <asp:ListItem Text="Roald Dahl" Value="Roald Dahl"></asp:ListItem>
                                                 <asp:ListItem Text="Pan Macmillan India" Value="Pan Macmillan India"></asp:ListItem>
+                                                <asp:ListItem Text="Napolean Hill" Value="Napolean Hill"></asp:ListItem>
                                             </asp:DropDownList>
                                         </div>
                                     </div>
@@ -93,6 +94,7 @@
                                                 <asp:ListItem Text="Rabindranath Tagore" Value="Rabindranath Tagore"></asp:ListItem>
                                                 <asp:ListItem Text="Roald Dahl" Value="Roald Dahl"></asp:ListItem>
                                                 <asp:ListItem Text="Ernest Hemingway" Value="Ernest Hemingway"></asp:ListItem>
+                                                <asp:ListItem Text="Napolean Hill" Value="Napolean Hill"></asp:ListItem>
                                             </asp:DropDownList>
                                         </div>
                                         <div class="form-group">
